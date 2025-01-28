@@ -13,3 +13,5 @@ We work with our interns on a wide range of topics, including
 
 Through hands-on projects in these fields, we help them gain valuable skills and experience, using a diverse set of programming languages and frameworks such as Python, Java, JavaScript, Go, Angular, Vue, etc.
 You can more about our Internship program [here](https://mantis.com.tr/tr/kariyer/staj-programi) 
+### 👨🏻‍💻 Read our blog posts [here](https://dev.to/mantis-stajyer). (Posts may in Turkish) 👩🏻‍💻
+---
